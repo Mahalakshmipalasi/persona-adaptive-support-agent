@@ -1,0 +1,5 @@
+SaaS Product Configuration Guide:
+To resolve authentication errors or API key failures, navigate to Admin Settings -> Developer Profiles, verify your Bearer Token, and validate that IP whitelisting allows traffic from your current cloud architecture cluster subnet.
+
+Billing and Tier Terms:
+Enterprise tier accounts are billed on a net-30 cadence. All direct cancellation or sudden refund assertions must be escalated straight to Tier-2 Billing Desk Administration teams manually.
